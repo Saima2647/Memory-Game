@@ -15,7 +15,7 @@ h1 {
 .container {
     display: flex;
     align-items: center;
-    gap: 10px; /* Space between buttons */
+    gap: 10px; 
     position: relative;
     top: 10px;
     margin: 0 auto;
@@ -36,7 +36,6 @@ h1 {
     font-size: 18px;
 }
 
-/* Dropdown Button */
 .dropdown {
     position: relative;
     display: inline-block;
@@ -76,7 +75,6 @@ h1 {
     display: block;
 }
 
-/* Game Board */
 .game-board {
     display: grid;
     grid-template-columns: repeat(4, 80px);
@@ -85,7 +83,6 @@ h1 {
     margin: 20px auto;
 }
 
-/* Cards */
 .card {
     width: 80px;
     height: 100px;
@@ -107,7 +104,6 @@ h1 {
     transform: rotateY(180deg);
 }
 
-/* Timer */
 #timer {
     position: absolute;
     top: 50%;
