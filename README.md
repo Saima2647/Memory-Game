@@ -63,7 +63,13 @@ memory-game/ <br />
 
 ## 📸 Screenshots
 
-https://github.com/Saima2647/Memory-Game/blob/main/mg/Project%20Images/Screenshot%202025-03-29%20150625.png?raw=true
-![Screenshot 1](Project Images/Screenshot 2025-03-29 150625.png)
+**Emoji Theam**
+![image](https://github.com/user-attachments/assets/f112a232-eacc-49f5-9d94-2ac56c86c9aa)
+
+![image](https://github.com/user-attachments/assets/62eb7dd1-e6db-4961-83d6-48f590381a16)
+
+**Flower Theam**
+![image](https://github.com/user-attachments/assets/324b5337-8759-470b-a52a-a208ecb78c29)
+
 
 ---
