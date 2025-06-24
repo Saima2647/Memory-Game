@@ -28,31 +28,6 @@ A fun and interactive **Memory Matching Game** built with **HTML**, **CSS**, and
 
 ---
 
-## 📁 Folder Structure
-
-memory-game/ <br />
-│ <br />
-├── audio/ # Contains sound effects <br />
-│ ├── flip.mp3 <br />
-│ ├── match.mp3 <br />
-│ └── lost.mp3 <br />
-│ <br />
-├── image/ # Background images per theme <br />
-│ ├── emoji.jfif <br />
-│ ├── flower.jpg <br />
-│ └── food3.webp <br />
-│ <br />
-├── css/ <br />
-│ └── styles.css # All CSS styling <br />
-│ <br />
-├── js/ <br />
-│ └── script.js # All game logic <br />
-│ <br />
-├── index.html # Main HTML file <br />
-└── README.md # Project documentation 
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure and layout
@@ -78,9 +53,23 @@ memory-game/ <br />
 
 ![image](https://github.com/user-attachments/assets/b8393a88-3daa-4b14-b6d3-45049099ceba)
 
-
-
-
-
-
 ---
+
+## 📁 Folder Structure
+
+memory-game/ <br />
+├──  README.md # Project documentation <br />
+└── mg/ <br />
+    ├── audio/ # Contains sound effects <br />
+    |    ├── flip.mp3 <br />
+    |    ├── match.mp3 <br />
+    |    └── lost.mp3 <br />
+    ├── image/ # Background images per theme <br />
+    |    ├── emoji.jfif <br />
+    |    ├── flower.jpg <br />
+    |    └── food3.webp <br />
+    ├── index.html # Main HTML file <br />
+    ├── styles.css # All CSS styling <br />
+    └── script.js # All game logic 
+
+---    
