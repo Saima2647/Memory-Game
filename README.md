@@ -71,5 +71,16 @@ memory-game/ <br />
 **Flower Theam**
 ![image](https://github.com/user-attachments/assets/324b5337-8759-470b-a52a-a208ecb78c29)
 
+![image](https://github.com/user-attachments/assets/fa5fb49c-e87d-41c3-b621-323b86637e3e)
+
+**Food Theam**
+![image](https://github.com/user-attachments/assets/7c535162-a5e5-41c5-b37e-d5be054744be)
+
+![image](https://github.com/user-attachments/assets/b8393a88-3daa-4b14-b6d3-45049099ceba)
+
+
+
+
+
 
 ---
